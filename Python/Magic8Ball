@@ -29,4 +29,4 @@ else:
  answer = "Error"
 
 print(name + " pregunta: " + question)
-print("La bola mágica del 8 dice: " + answer)
+print("La bola mágica del 8 dice: " + answer + " El numero era --> " + str(randomNumber))
