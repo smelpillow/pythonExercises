@@ -1,0 +1,6 @@
+a = int(input("Introduce el primer numero: "))
+b = int(input("Introduce el segundo numero: "))
+c = int(input("Introduce el tercer numero: "))
+d = int(input("Introduce el cuarto numero: "))
+resultMax = max(a, b, c, d)
+print("El numero mayor es: {}".format(resultMax))
